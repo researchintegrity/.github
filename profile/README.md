@@ -42,4 +42,4 @@ We are building a community of developers, researchers, and forensic experts.
 
 We are also compiling an Awesome Research Integrity page to serve as a curated entry point for anyone who wants to collaborate. This resource will include a roadmap of needed tools, datasets for training models, and guides on digital forensics for beginners.
 
-Until then, feel free to browse our repositories, open issues, or submit a PR.  If you share our passion for keeping science honest, you are very welcome here 🤗
+Until then, feel free to browse our repositories, open issues, or submit a PR.  If you share our desire for keeping science honest, you are very welcome here 🤗
